@@ -12,7 +12,7 @@ This repository contains a collection of simple tools for day-to-day business re
 1. Ensure you have Python 3.7+ installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/credit-card-statement-converter.git
+   git clone https://github.com/SarthakMishra/simple-business-tools.git
    ```
 3. Install the required packages:
    ```bash
